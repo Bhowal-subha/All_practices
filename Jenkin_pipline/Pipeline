@@ -1,0 +1,30 @@
+pipeline{
+    agent any
+    stages{
+        stage("Clean Up"){
+            steps{
+                deleteDir()
+            }
+        }
+        stage("stage1"){
+            steps{
+                echo "this is stage1"
+            }
+        }
+        stage("stage2"){
+            steps{
+                echo "this is stage2"
+            }
+        }
+        stage("stage3"){
+            steps{
+                echo "this is stage3"
+            }
+        }
+        stage("stage4"){
+            steps{
+                echo "this is stage4"
+            }
+        }
+    }
+}

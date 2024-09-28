@@ -1,0 +1,13 @@
+2024-06-17 11:31:54,361 :WARNING :__main__ :Warning messages
+2024-06-17 11:31:54,362 :ERROR :__main__ :error messages
+2024-06-17 11:31:54,362 :CRITICAL :__main__ :Critical Error
+2024-06-17 11:33:32,743 :DEBUG :__main__ :Print debug info
+2024-06-17 11:33:32,744 :INFO :__main__ :Info messages
+2024-06-17 11:33:32,744 :WARNING :__main__ :Warning messages
+2024-06-17 11:33:32,744 :ERROR :__main__ :error messages
+2024-06-17 11:33:32,744 :CRITICAL :__main__ :Critical Error
+2024-06-17 11:34:49,357 :DEBUG :loing_debug_info_warning_error_critical :Print debug info
+2024-06-17 11:34:49,357 :INFO :loing_debug_info_warning_error_critical :Info messages
+2024-06-17 11:34:49,358 :WARNING :loing_debug_info_warning_error_critical :Warning messages
+2024-06-17 11:34:49,358 :ERROR :loing_debug_info_warning_error_critical :error messages
+2024-06-17 11:34:49,358 :CRITICAL :loing_debug_info_warning_error_critical :Critical Error
